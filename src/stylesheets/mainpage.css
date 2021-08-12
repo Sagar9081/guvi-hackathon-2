@@ -1,0 +1,18 @@
+.firstimg {
+  height: 351px;
+}
+.firstimg:hover {
+  cursor: pointer;
+  transform: rotate(10deg);
+}
+
+.title {
+  text-align: center;
+  font-weight: 700;
+  font-family: "Anton", sans-serif;
+  font-size: 100px;
+}
+.my {
+  background-color: rgb(190, 0, 0);
+  color: white;
+}
